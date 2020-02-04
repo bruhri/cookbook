@@ -1,0 +1,24 @@
+## ARQUIVO .TXT
+
+## instruções por https://www.youtube.com/watch?v=KN8wuFi2RXM&t=188s
+
+
+Importação do git 
+
+Importação do docker de django 
+
+Criação de um arquivo no VSCode como Dockerfile
+
+Instalação do pacote/extenção de Dockerfile pelo VSCode 
+
+ir para o site hub.docker.com
+pegar a tag necessária para o projeto 
+-> pesquisar PYTHON no site e pegar a docker que precisa
+
+a primeira linha do Dockerfile vai ser a imagem (?)
+
+a segunda linha eh a "maintainer" line
+opcional, nome pessoal ou da empresa que vai manter esse docker file
+
+
+
